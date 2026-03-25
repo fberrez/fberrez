@@ -4,7 +4,7 @@ Software engineer based in France. I build small, focused tools — mostly aroun
 
 ## What I'm working on
 
-- [social-queue](https://github.com/fberrez/social-queue) — Minimal social media publishing queue powered by markdown files
+- [blurt.sh](https://blurt.sh) — Write once, publish everywhere. Markdown-based social media publishing with no database, self-hosted on a VPS
 - [quietdash.com](https://github.com/fberrez/quietdash.com) — A quiet dashboard
 - [fberrez.co](https://fberrez.co) — My personal blog
 
