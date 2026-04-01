@@ -21,9 +21,4 @@ Software engineer based in France. I build small, focused tools — mostly aroun
 
 ## GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fberrez&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fberrez&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+![Metrics](github-metrics.svg)
