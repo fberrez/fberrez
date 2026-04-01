@@ -25,4 +25,3 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          repositories_skipped: fberrez/LittleBigSoccer
