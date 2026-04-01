@@ -1,8 +1,11 @@
 # Hey, I'm Florent
 
-[![Blog](https://img.shields.io/badge/Blog-fberrez.co-blue?style=flat-square)](https://fberrez.co)
-[![Bluesky](https://img.shields.io/badge/Bluesky-@fberrez.co-0285FF?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/fberrez.co)
-[![Mastodon](https://img.shields.io/badge/Mastodon-@floberrez-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@floberrez)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 Software engineer based in France. I build small, focused tools — mostly around productivity, personal finance, and social media automation.
 
