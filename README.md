@@ -8,7 +8,6 @@ I build small, focused products — a lot of small things rather than one big th
 
 - **[mambo](https://trymambo.app)** — Keyboard-driven desktop database client for macOS and Linux. Connects to PostgreSQL, MySQL/MariaDB, MongoDB, Redis, SQLite, ClickHouse, DuckDB, Elasticsearch, and Cassandra. *Flagship.*
 - **[blurt.sh](https://blurt.sh)** — The simplest way to publish on the web. Push markdown, send an email, or just write. Your blog is live.
-- **[4-days-workweek](https://4-days-workweek-production.up.railway.app)** — Evidence-based research on the 4-day workweek. 60+ global trials, peer-reviewed data.
 - **[quietdash.com](https://quietdash.com)** — A quiet dashboard. Numbers that matter, nothing that doesn't.
 - **[minihabits](https://minihabits.co)** — A minimalist habit tracking app. One screen, tap, done, streak.
 
